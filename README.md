@@ -1,4 +1,7 @@
-<img src="assets/cover.jpg" alt="Black-and-white painting detail" width="100%" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/cover.jpg" />
+  <img src="assets/cover-motion.gif" alt="Black-and-white painting detail with a gentle, looping zoom" width="100%" />
+</picture>
 
 I build software and AI tools.  
 Founder at Qore Systems, currently working on FieldOS.
@@ -7,4 +10,11 @@ Founder at Qore Systems, currently working on FieldOS.
 
 ---
 
-Python · TypeScript · PostgreSQL · Docker · Linux · Unreal Engine
+<p>
+  <img src="assets/badges/python.svg" alt="Python" height="32" />
+  <img src="assets/badges/typescript.svg" alt="TypeScript" height="32" />
+  <img src="assets/badges/postgresql.svg" alt="PostgreSQL" height="32" />
+  <img src="assets/badges/docker.svg" alt="Docker" height="32" />
+  <img src="assets/badges/linux.svg" alt="Linux" height="32" />
+  <img src="assets/badges/unrealengine.svg" alt="Unreal Engine" height="32" />
+</p>
