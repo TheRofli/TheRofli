@@ -1,6 +1,6 @@
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/cover.jpg" />
-  <img src="assets/cover-motion.gif" alt="Black-and-white painting detail with a gentle, looping zoom" width="100%" />
+  <img src="assets/cover-dissolve.gif" alt="Still black-and-white portrait with a soft dissolve along the right edge" width="100%" />
 </picture>
 
 I build software and AI tools.  
